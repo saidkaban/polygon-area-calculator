@@ -1,4 +1,4 @@
-### Assignment
+### Project
 
 In this project, object oriented programming is used to create a Rectangle class and a Square class. The Square class is a subclass of Rectangle and inherit methods and attributes.
 
